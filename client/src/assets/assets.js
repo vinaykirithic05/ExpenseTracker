@@ -2,9 +2,10 @@
 
 import G from '../assets/G.svg'
 import apple from '../assets/apple.svg';
+import logo from '../assets/bf-logo.svg';
 
 export {
-    G,apple
+    G,apple,logo
 }
 
 export const testimonials = [
